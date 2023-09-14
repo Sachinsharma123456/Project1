@@ -11,9 +11,4 @@ Credential for admin panel :
 Username: admin
 Password: Test@123
 
-Credential for user panel :
-Username: phpgurukulofficial@gmail.com
-Password: Test@12345
-or
-You can registered  own user.
 
